@@ -1,0 +1,80 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+
+@Weilson1
+qa-guru
+/
+rest-assured-10
+Public
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+rest-assured-10/.gitignore
+@svasenkov
+svasenkov added selenoid tests
+Latest commit 6a403fd on 25 Feb
+ History
+ 1 contributor
+40 lines (35 sloc)  388 Bytes
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+*.iml
+
+# Project gen files
+.idea
+.allure/
+.gradle/
+allure-results/
+gradle/
+build/
+bin/
+out/
+logs/
+target/
+.classpath
+.project
+.settings/org.eclipse.buildship.core.prefs
+.vscode
+/gradlew
+/gradlew.bat
+*.properties
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
